@@ -20,5 +20,3 @@ jobs:
 
       - name: Lint Code Base
         uses: vgrassia/yaml-lint-action@v0
-        with:
-          workflow-name: "Build"
