@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@5a4ac9002d0be2fb38bd78e4b4dbde5606d7042f  # v2.3.4
 
       - name: Lint workflows
-        uses: bitwarden/gh-actions/lint-workflow@8dd8787bd8875bbe5059f2ef6f5eff269b2435c3  # v0
+        uses: bitwarden/gh-actions/lint-workflow@4bffd54d69d6d68527fcfdafcfcec938d6d5e65e  # v0.1
 
 
   cloc:
